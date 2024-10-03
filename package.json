@@ -5,6 +5,7 @@
   "homepage": "https://dominio/xxx",
   "dependencies": {
     "ajv": "^8.17.1",
+    "deployment": "^0.2.3",
     "moment": "2.29.4",
     "nouislider": "15.4.0",
     "react": ">=16.8.0",
